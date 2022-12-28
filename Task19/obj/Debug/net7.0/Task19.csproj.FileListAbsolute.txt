@@ -1,0 +1,5 @@
+C:\Users\Roman\Desktop\gb_homework\Task19\obj\Debug\net7.0\Task19.csproj.AssemblyReference.cache
+C:\Users\Roman\Desktop\gb_homework\Task19\obj\Debug\net7.0\Task19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roman\Desktop\gb_homework\Task19\obj\Debug\net7.0\Task19.AssemblyInfoInputs.cache
+C:\Users\Roman\Desktop\gb_homework\Task19\obj\Debug\net7.0\Task19.AssemblyInfo.cs
+C:\Users\Roman\Desktop\gb_homework\Task19\obj\Debug\net7.0\Task19.csproj.CoreCompileInputs.cache

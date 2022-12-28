@@ -3,3 +3,13 @@ C:\Users\Roman\Desktop\gb_homework\Task19\obj\Debug\net7.0\Task19.GeneratedMSBui
 C:\Users\Roman\Desktop\gb_homework\Task19\obj\Debug\net7.0\Task19.AssemblyInfoInputs.cache
 C:\Users\Roman\Desktop\gb_homework\Task19\obj\Debug\net7.0\Task19.AssemblyInfo.cs
 C:\Users\Roman\Desktop\gb_homework\Task19\obj\Debug\net7.0\Task19.csproj.CoreCompileInputs.cache
+C:\Users\Roman\Desktop\gb_homework\Task19\bin\Debug\net7.0\Task19.exe
+C:\Users\Roman\Desktop\gb_homework\Task19\bin\Debug\net7.0\Task19.deps.json
+C:\Users\Roman\Desktop\gb_homework\Task19\bin\Debug\net7.0\Task19.runtimeconfig.json
+C:\Users\Roman\Desktop\gb_homework\Task19\bin\Debug\net7.0\Task19.dll
+C:\Users\Roman\Desktop\gb_homework\Task19\bin\Debug\net7.0\Task19.pdb
+C:\Users\Roman\Desktop\gb_homework\Task19\obj\Debug\net7.0\Task19.dll
+C:\Users\Roman\Desktop\gb_homework\Task19\obj\Debug\net7.0\refint\Task19.dll
+C:\Users\Roman\Desktop\gb_homework\Task19\obj\Debug\net7.0\Task19.pdb
+C:\Users\Roman\Desktop\gb_homework\Task19\obj\Debug\net7.0\Task19.genruntimeconfig.cache
+C:\Users\Roman\Desktop\gb_homework\Task19\obj\Debug\net7.0\ref\Task19.dll
